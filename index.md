@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="grid4earth_logo.png" alt="GRID4EARTH Logo" width="300"/>
+  <img src="logo.png" alt="GRID4EARTH Logo" width="300"/>
 </p>
 
 
